@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning command-line because I think its very fun
+- 🌱 I’m currently learning command-line because I think its very fun.
 - 👯 I’m looking to collaborate on any fun back-end projects.
 - 🤔 I’m looking for help with helping me become a senior software developer.
 - 📫 How to reach me: anil.hajdar@gmail.com
 - ⚡ Fun fact: I can solve a rubix cube in about a minute.
-- 
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsan1l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//anil-hajdar-99b44b201/) 
 
